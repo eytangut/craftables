@@ -15,6 +15,9 @@ package net.mcreator.craftables;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.mcreator.craftables.init.CraftablesModTabs;
+import net.mcreator.craftables.init.CraftablesModItems;
+
 import net.fabricmc.api.ModInitializer;
 
 public class CraftablesMod implements ModInitializer {
@@ -24,6 +27,9 @@ public class CraftablesMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing CraftablesMod");
+		CraftablesModTabs.load();
+
+		CraftablesModItems.load();
 
 	}
 }

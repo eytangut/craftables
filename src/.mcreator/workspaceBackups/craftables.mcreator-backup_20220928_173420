@@ -15,21 +15,12 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "essance"
-    },
-    {
-      "name": "Soul",
-      "type": "item",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "soul"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.craftables.soul": "Soul",
       "item.craftables.essance": "Essance",
       "itemGroup.craftables.craftables": "Craftables"
     }
