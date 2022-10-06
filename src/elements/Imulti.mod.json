@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_multitool",
+    "customModelName": "Normal",
+    "name": "Iron Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.625,
+    "enchantability": 14,
+    "damageVsEntity": 4.9,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

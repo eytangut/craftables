@@ -1,5 +1,11 @@
 {
+  "item.craftables.imulti": "Iron Multitool",
+  "item.craftables.nmulti": "Netherite Multitool",
   "item.craftables.soul": "Soul",
+  "item.craftables.wmulti": "Wood Multitool",
   "item.craftables.essance": "Essance",
+  "item.craftables.smulti": "Stone Multitool",
+  "item.craftables.dmulti": "Diamond Multitool",
+  "item.craftables.gmulti": "Gold Multitool",
   "itemGroup.craftables.craftables": "Craftables"
 }

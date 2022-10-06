@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_multitool",
+    "customModelName": "Normal",
+    "name": "Diamond Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.9,
+    "enchantability": 2,
+    "damageVsEntity": 5.5,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

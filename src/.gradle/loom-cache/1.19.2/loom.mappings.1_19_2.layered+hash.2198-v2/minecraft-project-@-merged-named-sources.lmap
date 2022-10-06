@@ -6776,8 +6776,8 @@ com/mojang/realmsclient/gui/screens/RealmsNotificationsScreen	165	150
 	58	59
 	59	60
 	64	65
-	66	67
-	67	69
+	66	66
+	67	70
 	68	72
 	69	73
 	70	74
@@ -7035,7 +7035,7 @@ com/mojang/realmsclient/gui/screens/RealmsResetNormalWorldScreen	81	74
 	45	47
 	47	48
 	50	49
-	52	52
+	52	51
 	54	54
 	58	55
 	63	60
@@ -7367,7 +7367,7 @@ com/mojang/realmsclient/gui/screens/RealmsSlotOptionsScreen	306	224
 	156	132
 	157	133
 	158	134
-	160	136
+	160	135
 	162	138
 	165	139
 	168	141
@@ -7380,9 +7380,9 @@ com/mojang/realmsclient/gui/screens/RealmsSlotOptionsScreen	306	224
 	181	153
 	185	156
 	186	157
-	187	159
-	188	161
-	189	165
+	187	158
+	188	162
+	189	164
 	191	167
 	192	168
 	193	169
@@ -12537,7 +12537,7 @@ net/minecraft/client/MouseHandler	330	299
 	90	85
 	92	86
 	93	87
-	94	89
+	94	88
 	96	93
 	99	98
 	100	99
@@ -18799,7 +18799,7 @@ net/minecraft/client/gui/screens/ShareToLanScreen	58	56
 	22	30
 	27	35
 	30	36
-	32	38
+	32	39
 	34	41
 	35	42
 	36	43
@@ -18911,7 +18911,7 @@ net/minecraft/client/gui/screens/TitleScreen	370	351
 	175	167
 	176	350
 	178	351
-	180	346
+	180	168
 	185	173
 	186	174
 	190	177
@@ -21774,7 +21774,7 @@ net/minecraft/client/gui/screens/inventory/JigsawBlockEditScreen	227	194
 	123	107
 	127	110
 	129	111
-	145	127
+	145	126
 	147	129
 	149	130
 	150	131
@@ -24199,7 +24199,7 @@ net/minecraft/client/gui/screens/worldselection/CreateWorldScreen	670	598
 	249	202
 	250	203
 	251	204
-	252	206
+	252	205
 	255	209
 	257	210
 	260	211
@@ -33941,58 +33941,58 @@ net/minecraft/client/renderer/GameRenderer	1454	1402
 	439	391
 	441	392
 	444	394
-	445	397
-	446	400
-	447	403
+	445	398
+	446	401
+	447	404
 	448	406
-	449	409
+	449	410
 	450	412
-	451	415
+	451	416
 	452	418
-	453	421
+	453	422
 	454	424
 	455	427
 	457	430
 	458	433
-	459	436
+	459	437
 	460	439
 	461	442
-	462	445
+	462	446
 	463	448
 	464	451
-	465	454
+	465	455
 	466	457
 	467	460
-	468	463
+	468	464
 	469	466
-	470	469
-	471	472
-	472	475
-	473	478
+	470	470
+	471	473
+	472	476
+	473	479
 	474	481
 	475	484
 	476	487
 	477	490
 	478	493
 	479	496
-	480	499
-	481	502
+	480	500
+	481	503
 	482	505
 	483	508
 	484	511
 	485	514
 	486	517
 	487	520
-	488	523
-	489	526
+	488	524
+	489	527
 	490	529
 	491	532
 	492	535
 	493	538
 	494	541
-	495	544
+	495	545
 	496	547
-	497	550
+	497	551
 	498	553
 	499	556
 	501	561
@@ -42711,8 +42711,8 @@ net/minecraft/client/renderer/entity/ShulkerRenderer	67	71
 	66	70
 	67	71
 
-net/minecraft/client/renderer/entity/SilverfishRenderer	22	43
-	8	43
+net/minecraft/client/renderer/entity/SilverfishRenderer	22	38
+	8	38
 	12	23
 	17	28
 	22	33
@@ -43710,8 +43710,8 @@ net/minecraft/client/renderer/entity/layers/WardenEmissiveLayer	48	59
 	37	44
 	38	45
 	42	49
-	43	50
-	44	54
+	43	51
+	44	53
 	48	59
 
 net/minecraft/client/renderer/entity/layers/WitchItemLayer	34	40
@@ -46224,7 +46224,7 @@ net/minecraft/client/resources/model/ModelBakery	522	500
 	388	358
 	391	360
 	393	362
-	394	363
+	394	364
 	396	365
 	397	366
 	401	371
@@ -50054,7 +50054,7 @@ net/minecraft/core/BlockMath	63	55
 	63	55
 
 net/minecraft/core/BlockPos	565	562
-	24	472
+	24	497
 	27	32
 	28	32
 	40	557
@@ -51638,8 +51638,8 @@ net/minecraft/core/particles/ItemParticleOption	57	72
 	53	68
 	57	72
 
-net/minecraft/core/particles/ItemParticleOption$1	22	37
-	18	37
+net/minecraft/core/particles/ItemParticleOption$1	22	42
+	18	42
 	21	24
 	22	25
 
@@ -51686,8 +51686,8 @@ net/minecraft/core/particles/ShriekParticleOption	53	67
 	49	63
 	53	67
 
-net/minecraft/core/particles/ShriekParticleOption$1	21	38
-	17	38
+net/minecraft/core/particles/ShriekParticleOption$1	21	43
+	17	43
 	20	26
 	21	27
 
@@ -51698,8 +51698,8 @@ net/minecraft/core/particles/SimpleParticleType	43	64
 	34	51
 	43	60
 
-net/minecraft/core/particles/SimpleParticleType$1	17	36
-	9	36
+net/minecraft/core/particles/SimpleParticleType$1	17	31
+	9	31
 	12	21
 	17	26
 
@@ -51720,8 +51720,8 @@ net/minecraft/core/particles/VibrationParticleOption	84	92
 	80	88
 	84	92
 
-net/minecraft/core/particles/VibrationParticleOption$1	43	52
-	23	52
+net/minecraft/core/particles/VibrationParticleOption$1	43	57
+	23	57
 	26	31
 	27	32
 	28	33
@@ -55765,8 +55765,8 @@ net/minecraft/data/recipes/RecipeProvider	3541	1403
 	3536	1398
 	3541	1403
 
-net/minecraft/data/recipes/ShapedRecipeBuilder	130	138
-	27	138
+net/minecraft/data/recipes/ShapedRecipeBuilder	130	133
+	27	133
 	37	42
 	38	43
 	42	47
@@ -58422,8 +58422,8 @@ net/minecraft/locale/Language$1	66	67
 	65	67
 	66	67
 
-net/minecraft/nbt/ByteArrayTag	185	196
-	11	196
+net/minecraft/nbt/ByteArrayTag	185	221
+	11	221
 	58	67
 	62	71
 	66	75
@@ -58861,8 +58861,8 @@ net/minecraft/nbt/IntTag$1	56	54
 	51	44
 	56	49
 
-net/minecraft/nbt/ListTag	374	407
-	13	407
+net/minecraft/nbt/ListTag	374	402
+	13	402
 	110	137
 	111	138
 	115	142
@@ -58965,8 +58965,8 @@ net/minecraft/nbt/ListTag$1	102	130
 	97	120
 	102	125
 
-net/minecraft/nbt/LongArrayTag	197	227
-	12	227
+net/minecraft/nbt/LongArrayTag	197	242
+	12	242
 	64	72
 	68	76
 	72	80
@@ -59105,8 +59105,8 @@ net/minecraft/nbt/NbtIo	151	158
 	150	157
 	151	158
 
-net/minecraft/nbt/NbtOps	406	493
-	26	493
+net/minecraft/nbt/NbtOps	406	528
+	26	528
 	34	54
 	39	59
 	41	61
@@ -59228,8 +59228,8 @@ net/minecraft/nbt/NbtOps	406	493
 	401	419
 	406	423
 
-net/minecraft/nbt/NbtOps$1	293	315
-	273	315
+net/minecraft/nbt/NbtOps$1	293	309
+	273	309
 	277	288
 	283	294
 	288	299
@@ -60065,7 +60065,7 @@ net/minecraft/nbt/visitors/CollectToTag	168	169
 	160	159
 	163	162
 	164	163
-	166	166
+	166	165
 	168	169
 
 net/minecraft/nbt/visitors/FieldSelector	17	19
@@ -71290,8 +71290,8 @@ net/minecraft/server/level/ServerEntity	312	260
 	311	259
 	312	260
 
-net/minecraft/server/level/ServerLevel	1638	1348
-	155	1348
+net/minecraft/server/level/ServerLevel	1638	1352
+	155	1352
 	215	211
 	216	212
 	217	213
@@ -92307,7 +92307,7 @@ net/minecraft/world/entity/ai/behavior/BehaviorUtils	191	174
 	161	147
 	162	148
 	166	152
-	168	153
+	168	155
 	172	160
 	173	160
 	174	160
@@ -92388,8 +92388,8 @@ net/minecraft/world/entity/ai/behavior/Croak	49	56
 	44	46
 	49	51
 
-net/minecraft/world/entity/ai/behavior/CrossbowAttack	107	101
-	20	101
+net/minecraft/world/entity/ai/behavior/CrossbowAttack	107	106
+	20	106
 	34	29
 	42	34
 	43	35
@@ -92468,8 +92468,8 @@ net/minecraft/world/entity/ai/behavior/FlyingRandomStroll	26	24
 	24	23
 	26	24
 
-net/minecraft/world/entity/ai/behavior/FollowTemptation	79	93
-	18	93
+net/minecraft/world/entity/ai/behavior/FollowTemptation	79	88
+	18	88
 	25	28
 	26	29
 	27	30
@@ -92623,8 +92623,8 @@ net/minecraft/world/entity/ai/behavior/GoToClosestVillage	54	52
 	53	51
 	54	52
 
-net/minecraft/world/entity/ai/behavior/GoToPotentialJobSite	66	66
-	24	66
+net/minecraft/world/entity/ai/behavior/GoToPotentialJobSite	66	71
+	24	71
 	29	27
 	32	28
 	37	33
@@ -92663,8 +92663,8 @@ net/minecraft/world/entity/ai/behavior/GoToWantedItem	47	49
 	43	45
 	47	49
 
-net/minecraft/world/entity/ai/behavior/HarvestFarmland	176	171
-	29	171
+net/minecraft/world/entity/ai/behavior/HarvestFarmland	176	176
+	29	176
 	41	44
 	50	49
 	51	50
@@ -92903,8 +92903,8 @@ net/minecraft/world/entity/ai/behavior/LocateHidingPlaceDuringRaid	15	20
 	14	19
 	15	20
 
-net/minecraft/world/entity/ai/behavior/LongJumpMidJump	52	55
-	14	55
+net/minecraft/world/entity/ai/behavior/LongJumpMidJump	52	60
+	14	60
 	21	25
 	26	26
 	27	27
@@ -93107,8 +93107,8 @@ net/minecraft/world/entity/ai/behavior/MoveToSkySeeingSpot	55	55
 	51	51
 	55	55
 
-net/minecraft/world/entity/ai/behavior/MoveToTargetSink	163	140
-	26	140
+net/minecraft/world/entity/ai/behavior/MoveToTargetSink	163	150
+	26	150
 	40	35
 	44	39
 	56	44
@@ -93273,8 +93273,8 @@ net/minecraft/world/entity/ai/behavior/PrepareRamNearestTarget	172	155
 	171	144
 	172	145
 
-net/minecraft/world/entity/ai/behavior/RamTarget	134	120
-	30	120
+net/minecraft/world/entity/ai/behavior/RamTarget	134	130
+	30	130
 	51	44
 	56	45
 	57	46
@@ -93861,8 +93861,8 @@ net/minecraft/world/entity/ai/behavior/TryFindLand	67	66
 	66	59
 	67	60
 
-net/minecraft/world/entity/ai/behavior/TryFindLandNearWater	73	65
-	15	65
+net/minecraft/world/entity/ai/behavior/TryFindLandNearWater	73	70
+	15	70
 	21	28
 	26	29
 	27	30
@@ -93881,8 +93881,8 @@ net/minecraft/world/entity/ai/behavior/TryFindLandNearWater	73	65
 	71	57
 	73	58
 
-net/minecraft/world/entity/ai/behavior/TryFindWater	72	73
-	14	73
+net/minecraft/world/entity/ai/behavior/TryFindWater	72	78
+	14	78
 	20	26
 	25	27
 	26	28
@@ -94043,8 +94043,8 @@ net/minecraft/world/entity/ai/behavior/VillagerGoalPackages	256	128
 	240	124
 	256	128
 
-net/minecraft/world/entity/ai/behavior/VillagerMakeLove	156	143
-	27	143
+net/minecraft/world/entity/ai/behavior/VillagerMakeLove	156	138
+	27	138
 	33	33
 	45	38
 	50	43
@@ -94092,8 +94092,8 @@ net/minecraft/world/entity/ai/behavior/VillagerMakeLove	156	143
 	155	127
 	156	128
 
-net/minecraft/world/entity/ai/behavior/VillagerPanicTrigger	53	68
-	14	68
+net/minecraft/world/entity/ai/behavior/VillagerPanicTrigger	53	63
+	14	63
 	16	18
 	21	23
 	26	28
@@ -94203,8 +94203,8 @@ net/minecraft/world/entity/ai/behavior/YieldJobSite	95	83
 	94	82
 	95	83
 
-net/minecraft/world/entity/ai/behavior/warden/Digging	45	53
-	13	53
+net/minecraft/world/entity/ai/behavior/warden/Digging	45	58
+	13	58
 	15	20
 	23	25
 	28	30
@@ -94485,7 +94485,7 @@ net/minecraft/world/entity/ai/control/SmoothSwimmingLookControl	36	39
 	13	18
 	18	23
 	19	24
-	21	26
+	21	25
 	22	28
 	24	30
 	25	31
@@ -100600,8 +100600,8 @@ net/minecraft/world/entity/animal/axolotl/AxolotlAi	179	126
 	175	122
 	179	126
 
-net/minecraft/world/entity/animal/axolotl/PlayDead	39	43
-	12	43
+net/minecraft/world/entity/animal/axolotl/PlayDead	39	48
+	12	48
 	15	20
 	24	25
 	29	30
@@ -100752,8 +100752,8 @@ net/minecraft/world/entity/animal/frog/FrogAi	198	112
 	188	108
 	198	112
 
-net/minecraft/world/entity/animal/frog/ShootTongue	173	157
-	24	157
+net/minecraft/world/entity/animal/frog/ShootTongue	173	152
+	24	152
 	49	42
 	56	43
 	57	44
@@ -101644,8 +101644,8 @@ net/minecraft/world/entity/animal/horse/Horse	312	271
 	310	270
 	312	271
 
-net/minecraft/world/entity/animal/horse/Llama	512	479
-	61	479
+net/minecraft/world/entity/animal/horse/Llama	512	485
+	61	485
 	79	77
 	83	81
 	87	85
@@ -132279,7 +132279,7 @@ net/minecraft/world/level/block/entity/SculkShriekerBlockEntity	211	201
 	152	146
 	155	148
 	159	152
-	160	153
+	160	154
 	161	156
 	165	160
 	166	161

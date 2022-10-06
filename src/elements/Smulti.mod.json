@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "stone_multitool",
+    "customModelName": "Normal",
+    "name": "Stone Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.35,
+    "enchantability": 5,
+    "damageVsEntity": 4.3,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.COBBLESTONE"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

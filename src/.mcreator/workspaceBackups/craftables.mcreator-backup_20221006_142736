@@ -1,0 +1,85 @@
+{
+  "mod_elements": [
+    {
+      "name": "Craftables",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftables"
+    },
+    {
+      "name": "Essance",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essance"
+    },
+    {
+      "name": "Soul",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul"
+    },
+    {
+      "name": "Planks",
+      "type": "tag",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planks"
+    },
+    {
+      "name": "Wmulti",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wmulti"
+    },
+    {
+      "name": "Smulti",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smulti"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.craftables.soul": "Soul",
+      "item.craftables.wmulti": "Wood Multitool",
+      "item.craftables.essance": "Essance",
+      "item.craftables.smulti": "Stone Multitool",
+      "itemGroup.craftables.craftables": "Craftables"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "craftables",
+    "modName": "Craftables",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "modElementsPackage": "net.mcreator.craftables",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

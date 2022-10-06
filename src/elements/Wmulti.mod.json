@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wooden_multitool",
+    "customModelName": "Normal",
+    "name": "Wood Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.1,
+    "enchantability": 2,
+    "damageVsEntity": 3.3,
+    "usageCount": 59,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.LOG"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

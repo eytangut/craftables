@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "gold_multitool",
+    "customModelName": "Normal",
+    "name": "Gold Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.15,
+    "enchantability": 22,
+    "damageVsEntity": 3.3,
+    "usageCount": 32,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,18 +1,46 @@
 {
   "mod_elements": [
     {
-      "name": "CraftEss",
-      "type": "gui",
+      "name": "Craftables",
+      "type": "tab",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "craft_ess"
+      "registry_name": "craftables"
+    },
+    {
+      "name": "Essance",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essance"
+    },
+    {
+      "name": "Soul",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul"
+    },
+    {
+      "name": "Planks",
+      "type": "tag",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planks"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.craftables.soul": "Soul",
+      "item.craftables.essance": "Essance",
+      "itemGroup.craftables.craftables": "Craftables"
+    }
   },
   "foldersRoot": {
     "name": "~",

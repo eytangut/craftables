@@ -1,9 +1,38 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Craftables",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftables"
+    },
+    {
+      "name": "Essance",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "essance"
+    },
+    {
+      "name": "Soul",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.craftables.soul": "Soul",
+      "item.craftables.essance": "Essance",
+      "itemGroup.craftables.craftables": "Craftables"
+    }
   },
   "foldersRoot": {
     "name": "~",

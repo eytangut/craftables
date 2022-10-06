@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nether_multitool",
+    "customModelName": "Normal",
+    "name": "Netherite Multitool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Craftables"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.9,
+    "enchantability": 15,
+    "damageVsEntity": 6.3,
+    "usageCount": 2031,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
